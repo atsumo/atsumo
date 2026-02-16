@@ -1,5 +1,21 @@
-I develop Flutter/ReactNative Apps.
+# Hi, I'm atsumo 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atsumo&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+📱 **Software Engineer** | Mobile App Developer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atsumo&count_private=true&layout=compact&langs_count=10&hide=Shell,)](https://github.com/anuraghazra/github-readme-stats)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude_Code-DA7756?style=flat-square&logo=anthropic&logoColor=white)
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/atsumo)
+
+## Connect
+
+[![X](https://img.shields.io/badge/-@atsumo-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/atsumo)
+[![Blog](https://img.shields.io/badge/-Blog-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@atsumo)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/atsumo)
